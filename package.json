@@ -1,0 +1,30 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "specRunner.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QianZhang19/bank-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QianZhang19/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/QianZhang19/bank-challenge#readme"
+}
